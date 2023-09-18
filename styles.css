@@ -106,7 +106,7 @@ body {
     padding: 0;
     overflow: hidden; /* Avoid scrollbars */
     /* New background property */
-    background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 100%);
+    background: linear-gradient(109.6deg, rgb(185, 59, 59) 11.2%, rgb(60, 16, 31) 51.2%, rgb(0, 0, 0) 100%);
 }
  
 
